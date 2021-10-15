@@ -9,6 +9,10 @@
 
 JavaScript(ES6), React, HTML, CSS, Git, Webpack, Bootstrap, npm
 
+### Моя статистика:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leontevsky&show_icons=true&theme=calm)](https://github.com/Leontevsky/github-readme-stats)
+
 
 <!--
 **Leontevsky/Leontevsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
